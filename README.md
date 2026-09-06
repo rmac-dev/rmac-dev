@@ -1,16 +1,29 @@
-## Hi there 👋
+📖 My Introduction 📑
 
-<!--
-**rmac-dev/rmac-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏷 Name: Riley McCormick
+♂️ Gender: Male
+📍 Location: Northamptonshire, England
 
-Here are some ideas to get you started:
+🎓 Education: 
+Student For 2 Years in T-Level Software Design, Production and Development Course at Tresham College (2024-2026).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Self-Teaching using online courses to learn how to create projects with a more complex understanding.
+
+⌨️ Languages I have Used:
+Python (Creating Algorithms/Debugging Syntax Errors/Displaying Data From Spreadsheets).
+
+HTML/CSS/PHP (Creating Front-end and Back-end programs in Web-Dev Projects).
+
+Javascript (Briefly used for error validation in Web-Dev).
+
+🧠 Fields of Interest: 
+Cybersecurity
+UI/UX Design
+Data Analysis
+Web/App Development
+
+🎲 Hobbies:
+Gaming
+Watching TV/Movies
+Listening to Music
+
