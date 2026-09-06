@@ -1,7 +1,9 @@
 📖 My Introduction 📑
 
 🏷 Name: Riley McCormick
+
 ♂️ Gender: Male
+
 📍 Location: Northamptonshire, England
 
 🎓 Education: 
