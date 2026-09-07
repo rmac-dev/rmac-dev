@@ -23,7 +23,7 @@ My name is Riley and I'm a learning programmer from the UK
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
-
+<hr style="border: none; border-top: 2px dotted #8b949e; margin: 20px 0;">
 
   
 # **💡 Fields of Interest:**
