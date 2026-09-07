@@ -14,11 +14,9 @@ Student For 2 Years in T-Level Software Design, Production and Development Cours
 Currently Self-Teaching by using online courses to learn how to create projects with a more complex understanding.
 
 ⌨️ Languages I have Used:
-Python (Creating Algorithms/Debugging Syntax Errors/Displaying Data From Spreadsheets).
+<img width="800" height="800" alt="hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn" src="https://github.com/user-attachments/assets/7b2ccc65-dc71-4553-b1d7-3df781c07d97" />
 
-HTML/CSS/PHP (Creating Front-end and Back-end programs in Web-Dev Projects).
 
-Javascript (Briefly used for error validation in Web-Dev).
 
 Fields of Interest: 
 
