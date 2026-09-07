@@ -41,4 +41,4 @@ Fields of Interest:
 
 # **Other Networks I use:**
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-riley--mccormick--2813b039a-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riley-mccormick-2813b039a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riley%20mccormick%202813b039a-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riley-mccormick-2813b039a/)
