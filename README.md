@@ -28,15 +28,15 @@ My name is Riley and I'm a learning programmer from the UK
   
 # **💡 Fields of Interest:**
 
-🔐 Cybersecurity
+🔐 **Cybersecurity**
 
-⚙️ UI/UX Design
+⚙️ **UI/UX Design**
 
-📊 Data Analysis
+📊 **Data Analysis**
 
-🔗 Web/App Development
+🔗 **Web/App Development**
 
-💻 Hardware Engineer
+💻 **Hardware Engineer**
 
 <hr style="border: none; border-top: 3px dotted #30363d; margin: 20px 0;">
 
