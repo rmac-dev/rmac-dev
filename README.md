@@ -41,5 +41,5 @@ Fields of Interest:
 
 # **Other Networks I use:**
 <p align="left">
-https://www.linkedin.com/in/riley-mccormick-2813b039a/
+LinkedIn Profile: https://www.linkedin.com/in/riley-mccormick-2813b039a/
 
