@@ -25,7 +25,7 @@ My name is Riley and I'm a learning programmer from the UK
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8517-5a1884651347.gif" width="100%">
   
-Fields of Interest: 
+# **Fields of Interest:**
 
 🔐 Cybersecurity
 
@@ -33,13 +33,13 @@ Fields of Interest:
 
 📊 Data Analysis
 
-🌐 Web/App Development
+🔗 Web/App Development
 
 💻 Hardware Engineer
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8517-5a1884651347.gif" width="100%">
 
-# **Other Networks I use:**
+#🌐 **Other Networks I use:**
 <p align="left">
 LinkedIn Profile: https://www.linkedin.com/in/riley-mccormick-2813b039a/
 
