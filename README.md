@@ -1,4 +1,4 @@
-# **Welcome to my profile!**
+# **Welcome to my profile! 📢**
 My name is Riley and I'm a learning programmer from the UK
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8517-5a1884651347.gif" width="100%">
