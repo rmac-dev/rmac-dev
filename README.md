@@ -1,7 +1,7 @@
 # **Welcome to my profile! 📢**
 My name is Riley and I'm a learning programmer from the UK
 
-<hr style="border: none; border-top: 3px dotted #30363d; margin: 20px 0;">
+<hr style="border: none; border-top: 1px solid #30363d; margin: 24px 0;">
 
 # About Me:
 
