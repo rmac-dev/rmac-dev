@@ -1,17 +1,15 @@
-📖 My Introduction 📑
+# **Welcome to my profile!**
+My name is Riley and I'm a learning programmer from the UK
 
-🏷 Name: Riley McCormick
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8517-5a1884651347.gif" width="100%">
 
-♂️ Gender: Male
+# About Me:
+🖥️ *Status: Learning Computer Science Since 2024.*
+🧑‍🎓 *Education: Studied a T-Level Course in Digital Design, Production and Development For 2 Years.*
+📌 *Current Focus: Building diverse projects across multiple programming stacks to broaden my technical expertise.*
+🔍 *Fact About Me: I usually enjoy working on Engaging Projects that Require Problem-Solving Skills.* 
 
-📍 Location: Northamptonshire, England
-
-🏢 Occupation: Currently Searching
-
-🎓 Education: 
-Student For 2 Years in T-Level Digital Design, Production and Development Course (2024-2026).
-
-Currently Self-Teaching by using online courses to learn how to create projects with a more complex understanding.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8517-5a1884651347.gif" width="100%">
 
 **Languages I have used:**
 <p align="left">
@@ -20,6 +18,8 @@ Currently Self-Teaching by using online courses to learn how to create projects 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8517-5a1884651347.gif" width="100%">
   
 Fields of Interest: 
 
@@ -33,11 +33,8 @@ Fields of Interest:
 
 💻 Hardware Engineer
 
-Hobbies:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8517-5a1884651347.gif" width="100%">
 
-🎮 Gaming
-
-🖥 Watching TV/Movies
-
-🎧 Listening to Music
-
+# **Other Networks I use:**
+<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riley-mccormick-2813b039a)
