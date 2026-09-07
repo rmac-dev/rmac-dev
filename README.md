@@ -14,8 +14,12 @@ Student For 2 Years in T-Level Software Design, Production and Development Cours
 Currently Self-Teaching by using online courses to learn how to create projects with a more complex understanding.
 
 ⌨️ Languages I have Used:
-<img width="800" height="800" alt="hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn" src="https://github.com/user-attachments/assets/7b2ccc65-dc71-4553-b1d7-3df781c07d97" />
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 
 Fields of Interest: 
