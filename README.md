@@ -5,8 +5,11 @@ My name is Riley and I'm a learning programmer from the UK
 
 # About Me:
 🖥️ *Status: Learning Computer Science Since 2024.*
+
 🧑‍🎓 *Education: Studied a T-Level Course in Digital Design, Production and Development For 2 Years.*
+
 📌 *Current Focus: Building diverse projects across multiple programming stacks to broaden my technical expertise.*
+
 🔍 *Fact About Me: I usually enjoy working on Engaging Projects that Require Problem-Solving Skills.* 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-8517-5a1884651347.gif" width="100%">
