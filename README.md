@@ -3,7 +3,7 @@ My name is Riley and I'm a learning programmer from the UK
 
 
 
-# About Me:
+# 📖 About Me:
 
 🖥️ *Status: Learning Computer Science Since 2024.*
 
