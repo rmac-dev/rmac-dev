@@ -7,7 +7,7 @@ My name is Riley and I'm a learning programmer from the UK
 
 🖥️ *Status: Learning Computer Science Since 2024.*
 
-🧑‍🎓 *Education: Studied a T-Level Course in Digital Design, Production and Development For 2 Years.*
+🧑‍🎓 *Education: Studied a T-Level Course in Digital Production, Design and Development For 2 Years.*
 
 📌 *Current Focus: Building diverse projects across multiple programming stacks to broaden my technical expertise.*
 
