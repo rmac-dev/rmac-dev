@@ -1,4 +1,4 @@
-# **Welcome to my profile! 📢**
+# **Welcome to my profile 📢**
 My name is Riley and I'm a learning programmer from the UK
 
 
